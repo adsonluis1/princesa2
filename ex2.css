@@ -1,0 +1,47 @@
+img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+body{
+    background-color: rgb(102, 34, 167);
+    color: white;
+}
+header{
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.212);
+}
+main{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    width: 70%;
+    max-width: 600px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.295);
+    margin: auto;
+}
+input{
+    padding: 3px;
+    border-radius: 5px;
+}
+
+input#button{
+    margin-top: 10px;
+    padding: 3px;
+    width: 100%;
+    border-radius: 10px;
+    
+}
+input#button:hover{
+    background-color: rgb(102, 34, 167);
+    font-weight: bold;
+    transition: .5s;
+    padding: 6px;
+}
+div{
+    text-align: center;
+}
